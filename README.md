@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there! I'm **Mariana Kraft**, a Master's student at **ZHAW** specializing in the exciting field of **Data Science**. I am passionate about leveraging data to solve real-world problems and am currently seeking **internship opportunities** in the data science domain.
 
-<!--
-**marikraft/marikraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🌍 Based in **Switzerland**
+- 🎓 Pursuing a Master's degree in **Data Science** at ZHAW
+- 📫 Contact me: [mariana.kraft@outlook.com](mailto:mariana.kraft@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently learning
+
+- **Programming Languages**: Python, R, SQL
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
+- **Other Tools**: Git, Docker, Jupyter Notebooks
+
+## Goals
+
+I am eager to apply my skills and knowledge in a professional setting. If you're looking for a motivated and detail-oriented data science intern, feel free to reach out!
