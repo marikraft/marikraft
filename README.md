@@ -3,7 +3,7 @@ Hi there! I'm **Mariana Kraft**, a Master's student at **ZHAW** specializing in 
 ## About Me
 
 - 🌍 Based in **Switzerland**
-- 🎓 Pursuing a Master's degree in **Data Science** at ZHAW
+- 🎓 Pursuing a Master's degree in **Applied Computational Life Science** at ZHAW
 - 📫 Contact me: [mariana.kraft@outlook.com](mailto:mariana.kraft@outlook.com)
 
 ## Currently learning
