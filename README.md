@@ -1,18 +1,25 @@
-Hi there! I'm **Mariana Kraft**, a Master's student at **ZHAW** specializing in the exciting field of **Data Science**. I am passionate about leveraging data to solve real-world problems and am currently seeking **internship opportunities** in the data science domain.
+# Mariana Kraft Soares
 
-## About Me
+Data scientist with a background in biotechnology and bioprocess engineering,
+finishing an MSc in Applied Computational Life Sciences at ZHAW (Feb 2027).
 
-- 🌍 Based in **Switzerland**
-- 🎓 Pursuing a Master's degree in **Applied Computational Life Sciences** at ZHAW
-- 📫 Contact me: [mariana.kraft@outlook.com](mailto:mariana.kraft@outlook.com)
+I've spent years in the lab and years writing Python, and most of what I build
+sits where the two meet: messy experimental data, small sample sizes, and models
+that need to be honest about what they can't do.
 
-## Currently learning
+## Projects
 
-- **Programming Languages**: Python, R, SQL
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
-- **Other Tools**: Git, Docker, Jupyter Notebooks
+**[PipettePilot](https://github.com/marikraft/PipettePilot)**: an LLM turns
+plain-language instructions into liquid-handler plans, and a validator blocks
+physically impossible ones before the robot moves. Across 34 test instructions
+× 5 runs, invalid plans reaching approval unflagged dropped from up to 40% to 0%.
 
-## Goals
+## Tools
 
-I am eager to apply my skills and knowledge in a professional setting. If you're looking for a motivated and detail-oriented data science intern, feel free to reach out!
+Python · PyTorch · scikit-learn · pandas · SQL · Git
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/mariana-kraft) · mariana.kraft@outlook.com
+
+Looking for Data Scientist roles in pharma and biotech from early 2027.
