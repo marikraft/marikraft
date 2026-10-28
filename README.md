@@ -1,25 +1,36 @@
-# Mariana Kraft Soares
+# Hi, I'm Mari
 
-Data scientist with a background in biotechnology and bioprocess engineering,
-finishing an MSc in Applied Computational Life Sciences at ZHAW (Feb 2027).
+**Data Scientist (MSc) | Life Sciences & Pharma | Python · Machine Learning · Statistical Modelling**
 
-I've spent years in the lab and years writing Python, and most of what I build
-sits where the two meet: messy experimental data, small sample sizes, and models
-that need to be honest about what they can't do.
+I started at the lab bench and somehow ended up writing Python. Never really left the lab behind, though.
 
-## Projects
+I'm a bioprocess and biotechnology engineer, currently completing my MSc in Applied Computational Life Sciences at ZHAW, Switzerland.
 
-**[PipettePilot](https://github.com/marikraft/PipettePilot)**: an LLM turns
-plain-language instructions into liquid-handler plans, and a validator blocks
-physically impossible ones before the robot moves. Across 34 test instructions
-× 5 runs, invalid plans reaching approval unflagged dropped from up to 40% to 0%.
+I've worked on both sides, from running experiments to building predictive models and computational tools. My interests sit somewhere between experimental science, machine learning and solving problems that don't come with tidy datasets.
 
-## Tools
+I like understanding the science behind the numbers. A good model is useful, but knowing what the data can actually support matters just as much.
 
-Python · PyTorch · scikit-learn · pandas · SQL · Git
+## What's here
 
-## Contact
+### [PipettePilot](https://github.com/marikraft/PipettePilot)
+
+Can you let an LLM drive a lab robot? Kind of.
+
+PipettePilot uses tool calling and a validation layer to translate natural-language instructions into commands for a simulated liquid handler, catching physically impossible operations before they reach execution.
+
+## Tools I actually use
+
+**Languages:** Python · SQL · R
+**Data Science & ML:** pandas · NumPy · scikit-learn · PyTorch · SciPy
+
+
+## A little about me
+
+Swiss citizen, raised in Brazil, now based in Winterthur.
+I speak Portuguese, English, German, and occasionally the language of error messages.
+
+## Say hi
+
+I'm interested in Data Scientist roles in pharma, biotech and R&D from early 2027, but a good data problem can catch my attention just about anywhere.
 
 [LinkedIn](https://www.linkedin.com/in/mariana-kraft) · mariana.kraft@outlook.com
-
-Looking for Data Scientist roles in pharma and biotech from early 2027.
